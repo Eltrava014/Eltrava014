@@ -1,47 +1,52 @@
-# 👋 Oi, meu nome é Matheus
+<h1 align="center">Oi 👋 Meu nome é Matheus</h1>
 
-## 👨‍💻 Desenvolvedor de Sistemas
-
-Tenho estudado programação há 3 anos. Sou apaixonado por código limpo, aprendizado contínuo e desafios.  
-Trabalho principalmente com **Lua, C#, C++, HTML** e estou aprendendo **Python** e **JavaScript**.
+<h3 align="center">Desenvolvedor de Sistemas</h3>
 
 ---
 
-## 📍 Sobre mim
-
-- 🏠 Baseado em **São Paulo - SP**
-- 📬 Contato: [Matheus.henri201009@gmail.com](mailto:Matheus.henri201009@gmail.com)
-- 📚 Atualmente aprendendo: `Python` e `JavaScript`
-- 🦇 Também sou o Batman (mas ninguém pode provar 👀)
+<p align="center">
+  Tenho aprendido a programar há 3 anos. Programador apaixonado por código limpo e eficiente.<br/>
+  Trabalho com <strong>Lua, C#, C++, HTML</strong> e atualmente estudo <strong>JavaScript</strong> e <strong>Python</strong>.
+</p>
 
 ---
 
-## 💻 Habilidades
+## 🧠 Sobre mim
 
-<div align="center">
-  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+- 🌍 Baseado em **São Paulo - SP**
+- 📬 Contato: [Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)
+- 🚀 Estudando **JavaScript** e **Python**
+- 🦇 Eu sou o Batman, mas não espalha... você nunca me viu no mesmo lugar que ele, né?
 
 ---
 
-## 📲 Redes e Contato
+## 🛠️ Habilidades
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheus.henri201009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eltrava014)
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" title="C++"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" title="C#"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" title="Git"/></a>
+  <a href="https://lua.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="40" title="Lua"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" title="VS Code"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" title="HTML5"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" title="Node.js"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" title="Google Cloud"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" title=".NET"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" title="Linux"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Socials
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eltrava014&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltrava014&layout=compact&langs_count=7&theme=radical" />
-</div>
+<p align="center">
+  <a href="https://discord.com/users/theuzz.014" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" title="Discord"/>
+  </a>
+  <a href="https://github.com/Eltrava014" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" title="GitHub"/>
+  </a>
+  <a href="https://x.com/theuz0140" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" title="Twitter"/>
+  </a>
+</p>
