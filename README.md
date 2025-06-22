@@ -1,13 +1,11 @@
 Oi 👋 O meu nome é Matheus
 ==========================
-
 Desenvolvedor de sistemas
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Eu tenho aprendido a programar a 3 anos. Programador apaixonado por código limpo e eficiente. Lua, C#, C++ e HTML.
 
 * 🌍 Estou baseado em São Paulo
-* você pode entrar no contato comigo em[Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)[](mailto:Matheus.henri220109@gmail.com)
+* 📨 Você pode entrar no contato comigo em[Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)[](mailto:Matheus.henri220109@gmail.com)
 * 🧠 Estou a aprender java script e python
 * ⚡ sou o batman, porque voce acha q vc nunca me viu no mesmo lugar q ele?
 
@@ -17,7 +15,6 @@ Eu tenho aprendido a programar a 3 anos. Programador apaixonado por código limp
 <p align="esquerda">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" alt="Lua" title="Lua"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
-
 
 ### Socials
 
