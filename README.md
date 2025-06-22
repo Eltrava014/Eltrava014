@@ -1,18 +1,47 @@
-Oi 👋 O meu nome é Matheus
-==========================
-Desenvolvedor de sistemas
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Eu tenho aprendido a programar a 3 anos. Programador apaixonado por código limpo e eficiente. Lua, C#, C++ e HTML.
+# 👋 Oi, meu nome é Matheus
 
-* 🌍 Estou baseado em São Paulo
-* 📨 Você pode entrar no contato comigo em[Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)[](mailto:Matheus.henri220109@gmail.com)
-* 🧠 Estou a aprender java script e python
-* ⚡ sou o batman, porque voce acha q vc nunca me viu no mesmo lugar q ele?
+## 👨‍💻 Desenvolvedor de Sistemas
 
-### Habilidades
-<p align="esquerda">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" alt="Lua" title="Lua"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+Tenho estudado programação há 3 anos. Sou apaixonado por código limpo, aprendizado contínuo e desafios.  
+Trabalho principalmente com **Lua, C#, C++, HTML** e estou aprendendo **Python** e **JavaScript**.
 
-### Socials
-<p align="esquerda"> <a href="https://discord.com/users/theuzz.014" target="_blank" rel="noreferrer"> <picture> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord"/></picture> </a> <a href="https://www.github.com/Eltrava014" target="_blank" rel="noreferrer"> <picture> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github"/> </picture> </a> <a href="https://www.x.com/theuz0140" target="_blank" rel="noreferrer"> <picture> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"/> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter"/></foto> </a></p>
+---
+
+## 📍 Sobre mim
+
+- 🏠 Baseado em **São Paulo - SP**
+- 📬 Contato: [Matheus.henri201009@gmail.com](mailto:Matheus.henri201009@gmail.com)
+- 📚 Atualmente aprendendo: `Python` e `JavaScript`
+- 🦇 Também sou o Batman (mas ninguém pode provar 👀)
+
+---
+
+## 💻 Habilidades
+
+<div align="center">
+  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📲 Redes e Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheus.henri201009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eltrava014)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eltrava014&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltrava014&layout=compact&langs_count=7&theme=radical" />
+</div>
