@@ -15,7 +15,7 @@
 
 - 🌍 Baseado em **São Paulo - SP**
 - 📬 Contato: [Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)
-- 🚀 Estudando **JavaScript** e **Python**
+- 🚀 Estudando **JavaScript**,**Python** e **Lua**
 - 🦇 Eu sou o Batman, mas não espalha... você nunca me viu no mesmo lugar que ele, né?
 
 ---
